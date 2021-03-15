@@ -1,0 +1,32 @@
+Giocatore 1083 (1) della squadra 1082 (2) fallisce un dribbling.
+Giocatore 1085 (3) della squadra 1082 (2) esegue un dribbling.
+Giocatore 1085 (3) della squadra 1082 (2) esegue un dribbling.
+Giocatore 1085 (3) della squadra 1082 (2) evita un infortunio.
+Giocatore 1078 (2) della squadra 1076 (1) fallisce un tiro.
+Giocatore 1086 (4) della squadra 1082 (2) subisce un infortunio.
+Giocatore 1080 (4) della squadra 1076 (1) fallisce un tiro.
+Giocatore 1088 (4) della squadra 1082 (2) subisce un infortunio.
+Giocatore 1078 (2) della squadra 1076 (1) esegue un dribbling.
+Giocatore 1078 (2) della squadra 1076 (1) fallisce un tiro.
+Giocatore 1083 (1) della squadra 1082 (2) evita un infortunio.
+Giocatore 1084 (2) della squadra 1082 (2) esegue un dribbling.
+Giocatore 1084 (2) della squadra 1082 (2) esegue un tiro.
+
+Squadra A [0] - Squadra B [1]
+
+Giocatore 1079 (3) della squadra 1076 (1) fallisce un tiro.
+Giocatore 1083 (1) della squadra 1082 (2) fallisce un tiro.
+Giocatore 1089 (4) della squadra 1082 (2) evita un infortunio.
+Giocatore 1079 (3) della squadra 1076 (1) esegue un dribbling.
+Giocatore 1079 (3) della squadra 1076 (1) esegue un dribbling.
+Giocatore 1079 (3) della squadra 1076 (1) evita un infortunio.
+Giocatore 1081 (5) della squadra 1076 (1) esegue un dribbling.
+Giocatore 1081 (5) della squadra 1076 (1) esegue un dribbling.
+Giocatore 1081 (5) della squadra 1076 (1) fallisce un tiro.
+Giocatore 1079 (3) della squadra 1076 (1) esegue un dribbling.
+Giocatore 1079 (3) della squadra 1076 (1) evita un infortunio.
+Giocatore 1081 (5) della squadra 1076 (1) subisce un infortunio.
+Giocatore 1093 (5) della squadra 1076 (1) fallisce un tiro.
+Giocatore 1083 (1) della squadra 1082 (2) evita un infortunio.
+Giocatore 1080 (4) della squadra 1076 (1) evita un infortunio.
+Giocatore 1089 (4) della squadra 1082 (2) fallisce un tiro.

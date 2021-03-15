@@ -1,0 +1,4 @@
+Durata partita: 40
+Percentuale infortunio: 30
+Percentuale tiro: 20
+Percentuale dribbling: 60
