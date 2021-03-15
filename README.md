@@ -1,4 +1,4 @@
-# SO-1617
+# SO-16-17
 
 Repository for the SO exam's project, A.Y. 2016-2017.
 
